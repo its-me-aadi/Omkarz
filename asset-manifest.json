@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/omcarz/static/css/main.84d6e32a.css",
+    "main.js": "/omcarz/static/js/main.f158d038.js",
+    "static/media/yellowTaxi.svg": "/omcarz/static/media/yellowTaxi.0184454b30dd37ed55fcdd0c505822d3.svg",
+    "static/media/swift.svg": "/omcarz/static/media/swift.ccf6bb55dd8d5dcc6e9affb54368146f.svg",
+    "static/media/Ertiga.svg": "/omcarz/static/media/Ertiga.00c58c5ebd2f4a7f596f4dc62f799294.svg",
+    "static/media/rtcar.svg": "/omcarz/static/media/rtcar.5bc006a9febfbdc1d4a35a089dd3e8b9.svg",
+    "static/media/logo.svg": "/omcarz/static/media/logo.ef5d4bc95c1f62ce638662fdc4ad77ba.svg",
+    "static/media/lexend-latin-400-normal.woff": "/omcarz/static/media/lexend-latin-400-normal.c87b078621ccaa289069.woff",
+    "static/media/lexend-latin-ext-400-normal.woff": "/omcarz/static/media/lexend-latin-ext-400-normal.cd70863c92b3253d794f.woff",
+    "static/media/lexend-latin-400-normal.woff2": "/omcarz/static/media/lexend-latin-400-normal.66f3898e74813ae23646.woff2",
+    "static/media/lexend-latin-ext-400-normal.woff2": "/omcarz/static/media/lexend-latin-ext-400-normal.8798764a2ef5c5762912.woff2",
+    "static/media/Airplane.svg": "/omcarz/static/media/Airplane.5cda09b0ac525ae2ffba46bc55eb96aa.svg",
+    "static/media/lexend-vietnamese-400-normal.woff": "/omcarz/static/media/lexend-vietnamese-400-normal.d8777d5b5c32fc341177.woff",
+    "static/media/ServicesTaxi.svg": "/omcarz/static/media/ServicesTaxi.cc3536203920efb8f0fc9e9f2b1bb7cd.svg",
+    "static/media/serviceClock.svg": "/omcarz/static/media/serviceClock.ee3745db856de64a3480651ed0561784.svg",
+    "static/media/lexend-vietnamese-400-normal.woff2": "/omcarz/static/media/lexend-vietnamese-400-normal.0c9858ac0202e5eb0c8b.woff2",
+    "static/media/user.svg": "/omcarz/static/media/user.3a1113cb4fc18ec82d6d3b2e421ba938.svg",
+    "static/media/id.svg": "/omcarz/static/media/id.4bcbadacb40295c1952c7779cdb2ddb4.svg",
+    "static/media/money.svg": "/omcarz/static/media/money.cc41732634c4152e5d6143eb3ebbe5c6.svg",
+    "static/media/clock.svg": "/omcarz/static/media/clock.e88ee614b45eea30f7efcabb320228cf.svg",
+    "index.html": "/omcarz/index.html",
+    "main.84d6e32a.css.map": "/omcarz/static/css/main.84d6e32a.css.map",
+    "main.f158d038.js.map": "/omcarz/static/js/main.f158d038.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84d6e32a.css",
+    "static/js/main.f158d038.js"
+  ]
+}
