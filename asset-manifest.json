@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/Omkarz/static/css/main.eaefdba0.css",
-    "main.js": "/Omkarz/static/js/main.306aaafe.js",
+    "main.css": "/Omkarz/static/css/main.177f3eeb.css",
+    "main.js": "/Omkarz/static/js/main.6fa3d209.js",
+    "static/media/phoneTaxi.svg": "/Omkarz/static/media/phoneTaxi.9acccbf3c96bec7697e2bed40411f71a.svg",
     "static/media/yellowTaxi.svg": "/Omkarz/static/media/yellowTaxi.0184454b30dd37ed55fcdd0c505822d3.svg",
     "static/media/swift.svg": "/Omkarz/static/media/swift.ccf6bb55dd8d5dcc6e9affb54368146f.svg",
     "static/media/Ertiga.svg": "/Omkarz/static/media/Ertiga.00c58c5ebd2f4a7f596f4dc62f799294.svg",
@@ -22,11 +23,11 @@
     "static/media/clock.svg": "/Omkarz/static/media/clock.e88ee614b45eea30f7efcabb320228cf.svg",
     "index.html": "/Omkarz/index.html",
     "static/media/arrow.svg": "/Omkarz/static/media/arrow.605115e7b96b52d88cf6fb39ecca95eb.svg",
-    "main.eaefdba0.css.map": "/Omkarz/static/css/main.eaefdba0.css.map",
-    "main.306aaafe.js.map": "/Omkarz/static/js/main.306aaafe.js.map"
+    "main.177f3eeb.css.map": "/Omkarz/static/css/main.177f3eeb.css.map",
+    "main.6fa3d209.js.map": "/Omkarz/static/js/main.6fa3d209.js.map"
   },
   "entrypoints": [
-    "static/css/main.eaefdba0.css",
-    "static/js/main.306aaafe.js"
+    "static/css/main.177f3eeb.css",
+    "static/js/main.6fa3d209.js"
   ]
 }
