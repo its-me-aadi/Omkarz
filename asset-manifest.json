@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Omkarz/static/css/main.73bc560d.css",
-    "main.js": "/Omkarz/static/js/main.81932c8b.js",
-    "static/media/phoneTaxi.svg": "/Omkarz/static/media/phoneTaxi.9acccbf3c96bec7697e2bed40411f71a.svg",
-    "static/media/yellowTaxi.svg": "/Omkarz/static/media/yellowTaxi.0184454b30dd37ed55fcdd0c505822d3.svg",
+    "main.js": "/Omkarz/static/js/main.6d1a3815.js",
     "static/media/swift.svg": "/Omkarz/static/media/swift.ccf6bb55dd8d5dcc6e9affb54368146f.svg",
     "static/media/Ertiga.svg": "/Omkarz/static/media/Ertiga.00c58c5ebd2f4a7f596f4dc62f799294.svg",
+    "static/media/yellowTaxi.webp": "/Omkarz/static/media/yellowTaxi.f2367690bed35c48fc41.webp",
     "static/media/rtcar.svg": "/Omkarz/static/media/rtcar.5bc006a9febfbdc1d4a35a089dd3e8b9.svg",
     "static/media/logo.svg": "/Omkarz/static/media/logo.ef5d4bc95c1f62ce638662fdc4ad77ba.svg",
+    "static/media/phoneTaxi.webp": "/Omkarz/static/media/phoneTaxi.099b092a8614205c9977.webp",
     "static/media/lexend-latin-400-normal.woff": "/Omkarz/static/media/lexend-latin-400-normal.c87b078621ccaa289069.woff",
     "static/media/lexend-latin-ext-400-normal.woff": "/Omkarz/static/media/lexend-latin-ext-400-normal.cd70863c92b3253d794f.woff",
     "static/media/lexend-latin-400-normal.woff2": "/Omkarz/static/media/lexend-latin-400-normal.66f3898e74813ae23646.woff2",
@@ -24,10 +24,10 @@
     "index.html": "/Omkarz/index.html",
     "static/media/arrow.svg": "/Omkarz/static/media/arrow.605115e7b96b52d88cf6fb39ecca95eb.svg",
     "main.73bc560d.css.map": "/Omkarz/static/css/main.73bc560d.css.map",
-    "main.81932c8b.js.map": "/Omkarz/static/js/main.81932c8b.js.map"
+    "main.6d1a3815.js.map": "/Omkarz/static/js/main.6d1a3815.js.map"
   },
   "entrypoints": [
     "static/css/main.73bc560d.css",
-    "static/js/main.81932c8b.js"
+    "static/js/main.6d1a3815.js"
   ]
 }
